@@ -1,6 +1,6 @@
 # vue-idiom-puzzle
 
-> 成语大官人小游戏vue实现
+> 成语填字小游戏vue实现
 
 
 
