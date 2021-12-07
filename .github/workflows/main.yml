@@ -23,6 +23,7 @@ jobs:
         run: npm install && npm run build
 
       # 部署到 GitHub Pages
+      #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
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
