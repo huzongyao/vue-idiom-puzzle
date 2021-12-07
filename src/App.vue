@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="page-bak">
-      <div class="title-txt">猜成语</div>
+      <div class="title-txt">一起猜成语</div>
       <div class="game-field">
         <div class="gate-txt">第{{num2ChStr(curLevel)}}关</div>
         <!--游戏矩阵-->
