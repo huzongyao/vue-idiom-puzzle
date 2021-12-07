@@ -1,7 +1,8 @@
 # vue-idiom-puzzle
 
 > 成语填字小游戏vue实现
-
+## 详细说明
+* 体验地址：https://huzongyao.github.io/vue-idiom-puzzle
 
 
 ## Build Setup
