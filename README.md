@@ -4,7 +4,11 @@
 ## 详细说明
 * 体验地址：https://huzongyao.github.io/vue-idiom-puzzle
 
-![image](https://huzongyao.github.io/vue-idiom-puzzle/static/img/screen.gif)
+![image](https://huzongyao.github.io/vue-idiom-puzzle/static/img/qrcode.png)
+
+* 效果图示意
+
+![image](https://huzongyao.github.io/vue-idiom-puzzle/static/img/screen.png)
 
 ## Build Setup
 
